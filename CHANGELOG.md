@@ -1,7 +1,10 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.2.0]
 ### Added
+- **Support Facebook Fields Datatypes**
 - Bug fixes and improvements.
 
 ## [1.1.0] - 2025-02-09
