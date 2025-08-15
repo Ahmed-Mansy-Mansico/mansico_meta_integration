@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.2.1]
+### Added
+- **fix wrong release version**
+
 ## [1.2.0]
 ### Added
 - **Support Facebook Fields Datatypes**
